@@ -1,0 +1,7 @@
+D:\PRO1\Spremenljivke\Spremenljivke\bin\Debug\Spremenljivke.exe.config
+D:\PRO1\Spremenljivke\Spremenljivke\bin\Debug\Spremenljivke.exe
+D:\PRO1\Spremenljivke\Spremenljivke\bin\Debug\Spremenljivke.pdb
+D:\PRO1\Spremenljivke\Spremenljivke\obj\Debug\Spremenljivke.csprojResolveAssemblyReference.cache
+D:\PRO1\Spremenljivke\Spremenljivke\obj\Debug\Spremenljivke.csproj.CoreCompileInputs.cache
+D:\PRO1\Spremenljivke\Spremenljivke\obj\Debug\Spremenljivke.exe
+D:\PRO1\Spremenljivke\Spremenljivke\obj\Debug\Spremenljivke.pdb
